@@ -1,0 +1,14 @@
+/node_modules
+.env
+
+
+wallet.js
+
+/transformation/testdata
+/transformation/transformedData.json
+/json2csv/transformedData.json
+/json2csv/transformedData.csv
+data.json
+extractedData.json
+log.txt
+*.csv
